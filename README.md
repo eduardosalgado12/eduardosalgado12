@@ -43,6 +43,11 @@ What I carry over from engineering: **planning before building, respecting const
 >
 > **My part:** the maze generation core — iterative recursive backtracking with a stack, plus the extra passes that add loops for non-perfect mazes.
 
+> **[push_swap](https://github.com/eduardosalgado12/push_swap)** · `C` · *team project with khooftma*<br>
+> Sorts a list of integers using two stacks and a restricted set of 11 operations, aiming for the fewest moves possible. It ships four strategies — O(n²), O(n√n), O(n log n) — plus an adaptive mode that measures how disordered the input is (inversion count) and picks the best one. Includes a `checker` that verifies any sequence of moves.
+>
+> **My part:** the O(n log n) strategy — a recursive quicksort that splits around the exact median — plus input parsing and the benchmarking module.
+
 > **[Libft](https://github.com/eduardosalgado12/Libft)** · `C`<br>
 > A re-implementation of part of the C standard library, plus linked-list utilities. Every later C project at 42 is built on top of it.
 
@@ -67,6 +72,15 @@ Python work checked with **flake8** and **mypy** · C code following the 42 **no
 - 🌍 Open to **internships and junior roles**, remote preferred
 
 ---
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=eduardosalgado12&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosalgado12&layout=donut&theme=gruvbox&hide_border=true" />
+
+<sub>🚴 When I'm away from the keyboard, I'm probably on a bike somewhere in the north of Portugal.</sub>
+
+</div>
 
 <div align="center">
 
