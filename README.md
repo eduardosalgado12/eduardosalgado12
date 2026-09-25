@@ -6,8 +6,7 @@
 
 <a href="https://www.linkedin.com/in/eduardo-salgado/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:EduardoSalgado@outlook.pt"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=maildotru&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-42%20Porto-000000?style=flat-square&logo=42&logoColor=white" />
-<img src="https://img.shields.io/badge/-Looking%20for%20remote%20roles-2EA44F?style=flat-square" />
+
 
 </div>
 
