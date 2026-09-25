@@ -1,103 +1,73 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Eduardo+Salgado;From+power+grids+to+Python;Student+%40+42+Porto;Data+%E2%80%A2+Python+%E2%80%A2+C" alt="Typing intro" />
+
+**Electrical engineer · Construction manager · Now writing code**
+
+<a href="https://www.linkedin.com/in/eduardo-salgado/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:EduardoSalgado@outlook.pt"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=maildotru&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-42%20Porto-000000?style=flat-square&logo=42&logoColor=white" />
+<img src="https://img.shields.io/badge/-Looking%20for%20remote%20roles-2EA44F?style=flat-square" />
+
+</div>
+
+---
+
+### 🔌 From circuits to code
+
+I spent years on the engineering side of things: designing electrical installations, managing sites in Portugal and Angola, and running budgets and teams at a construction company — including delivering an 8-apartment building in 18 months, on budget and on schedule.
+
+In 2026 I decided to switch to software full-time and joined **42 Porto**, where there are no teachers and no lectures — only projects, peer reviews and a lot of debugging.
+
+What I carry over from engineering: **planning before building, respecting constraints, and finishing what I start.**
+
+```text
+2016  ──  BSc Electrical Engineering (ISEP) + Erasmus in Budapest
+2016  ──  Electrical project engineer
+2018  ──  Site manager in Luanda, Angola
+2018  ──  Research at GECAD (ISEP) — AI / IoT
+2019  ──  General management, family construction company
+2025  ──  Data Analysis with SQL (Code for All)
+2026  ──  42 Porto · Common Core  ◀ you are here
 ```
-        _                  _              _              _
- ___ __| |_  _ __ _ _ _ __| |___ ___ __ _| |__ _ __ _ __| |___
-/ -_) _` | || / _` | '_/ _` / _ (_-</ _` | / _` / _` / _` / _ \
-\___\__,_|\_,_\__,_|_| \__,_\___/__/\__,_|_\__, \__,_\__,_\___/
-                                           |___/
-```
-
-⚡ **[ 42 PORTO · COMMON CORE ]** ⚡
-
-# Hi, I'm Eduardo 👋
-
-**Electrical engineer turned software developer, now training at [42 Porto](https://www.42porto.com/)** — building solid foundations in C, Python and Linux, with a growing focus on data.
-
-![42 Porto](https://img.shields.io/badge/42-Porto-000000?style=for-the-badge&logo=42&logoColor=white)
-![Location](https://img.shields.io/badge/Porto-Portugal-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge)
-![Remote](https://img.shields.io/badge/Remote-Friendly-8A2BE2?style=for-the-badge)
 
 ---
 
-## 🧭 About Me
+### 🧩 Things I've built
 
-- 🎓 Full-time student at **42 Porto** — a tuition-free, project-based school with no classes and no teachers: you learn by building real software and defending it in peer evaluations.
-- ⚡ Background in **Electrical Engineering** (ISEP) and 7 years managing construction projects — budgeting, planning and delivering on time. I bring that discipline to code.
-- 🤖 Did a short stint as a researcher at **GECAD (ISEP)**, working on an AI/IoT project.
-- 📊 Interested in **data** — completed an *Introduction to Data Analysis with SQL* course (Code for All).
-- 🔧 Working with **C**, **Python** (OOP, type hints, Pydantic, functional programming), **Bash** and **Linux**.
-- 🗣️ Portuguese (native) · English (advanced) · Spanish (intermediate)
-- 💼 **Open to internships and junior roles — remote preferred.**
+> **[Fly-in](https://github.com/eduardosalgado12/Fly-in)** · `Python`
+> Routes a fleet of drones through a network of zones. Includes a parser for the map format, a turn-by-turn simulation and a pathfinding algorithm written from scratch — no graph libraries allowed.
 
----
+> **[Libft](https://github.com/eduardosalgado12/Libft)** · `C`
+> A re-implementation of part of the C standard library, plus linked-list utilities. Every later C project at 42 is built on top of it.
 
-## 🚀 Featured Projects
-
-| Project | What it is | Key concepts |
-|---|---|---|
-| [**Libft**](https://github.com/eduardosalgado12/Libft) | My own C standard library — the foundation every later 42 project builds on | C · pointers · memory management |
-| [**Fly-in**](https://github.com/eduardosalgado12/Fly-in) | Drone routing system: parses a graph of zones and simulates drones moving turn by turn, with pathfinding written from scratch (no graph libraries) | Python · graphs · pathfinding · simulation |
-
-🎓 **Curriculum highlights so far:** Libft · Born2beRoot (Debian server setup & hardening) · Python Piscine · A-Maze-ing · Fly-in
+<sub>More on the way: Born2beRoot · A-Maze-ing · Python modules (OOP, Pydantic, functional programming)</sub>
 
 ---
 
-## 🛠️ Skills & Tools
+### 🧰 Toolbox
 
-**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,bash,postgres,linux,debian,git,github,vim,vscode&theme=dark" />
+</p>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Systems & tools**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D0082?style=for-the-badge&logo=gnu&logoColor=white)
-
-**Code quality:** `norminette` (42's C style checker) · `flake8` + `mypy` for Python
+Python work checked with **flake8** and **mypy** · C code following the 42 **norminette**
 
 ---
 
-## 📊 GitHub Stats
+### 🎯 Right now
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardosalgado12&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosalgado12&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub streak](https://streak-stats.demolab.com?user=eduardosalgado12&theme=tokyonight&hide_border=true)
+- 📚 Progressing through the 42 Common Core
+- 📊 Pointing my learning towards **data** — Python, SQL and data validation
+- 🌍 Open to **internships and junior roles**, remote preferred
 
 ---
 
-## 🤝 Let's Connect
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-salgado/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EduardoSalgado@outlook.pt)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardosalgado12)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=eduardosalgado12&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosalgado12&layout=donut&theme=gruvbox&hide_border=true" />
 
----
+<sub>🚴 When I'm away from the keyboard, I'm probably on a bike somewhere in the north of Portugal.</sub>
 
-*Every project above has its own README — take a look around.*
-
-Made in Maia, Portugal 🇵🇹
-
-<!--
-**eduardosalgado12/eduardosalgado12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
