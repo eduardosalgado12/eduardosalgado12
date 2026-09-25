@@ -75,13 +75,4 @@ Python work checked with **flake8** and **mypy** · C code following the 42 **no
 
 <sub>🚴 When I'm away from the keyboard, I'm probably on a bike somewhere in the north of Portugal.</sub>
 
-</div>
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=eduardosalgado12&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosalgado12&layout=donut&theme=gruvbox&hide_border=true" />
-
-<sub>🚴 When I'm away from the keyboard, I'm probably on a bike somewhere in the north of Portugal.</sub>
-
-</div>
