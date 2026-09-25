@@ -59,7 +59,7 @@ Python work checked with **flake8** and **mypy** · C code following the 42 **no
 
 - 📚 Progressing through the 42 Common Core
 - 📊 Pointing my learning towards **data** — Python, SQL and data validation
-- 🌍 Open to **internships and junior roles**, remote preferred
+- 🌍 Open to **internships and junior roles**
 
 ---
 
