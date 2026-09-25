@@ -5,8 +5,9 @@
 **Electrical engineer · Construction manager · Now writing code**
 
 <a href="https://www.linkedin.com/in/eduardo-salgado/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:EduardoSalgado@outlook.pt"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=maildotru&logoColor=white" /></a>
-
+[![Email](https://img.shields.io/badge/-EduardoSalgado%40outlook.pt-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:EduardoSalgado@outlook.pt)
+<img src="https://img.shields.io/badge/-42%20Porto-000000?style=flat-square&logo=42&logoColor=white" />
+<img src="https://img.shields.io/badge/-Looking%20for%20remote%20roles-2EA44F?style=flat-square" />
 
 </div>
 
@@ -34,13 +35,18 @@ What I carry over from engineering: **planning before building, respecting const
 
 ### 🧩 Things I've built
 
-> **[Fly-in](https://github.com/eduardosalgado12/Fly-in)** · `Python`
+> **[Fly-in](https://github.com/eduardosalgado12/Fly-in)** · `Python`<br>
 > Routes a fleet of drones through a network of zones. Includes a parser for the map format, a turn-by-turn simulation and a pathfinding algorithm written from scratch — no graph libraries allowed.
 
-> **[Libft](https://github.com/eduardosalgado12/Libft)** · `C`
+> **[A-Maze-ing](https://github.com/gui123fontes/A_maze_ing)** · `Python` · *team project with [@gui123fontes](https://github.com/gui123fontes)*<br>
+> Maze generator driven by a config file, with an interactive, colourful terminal view. It builds either "perfect" mazes (exactly one path from entry to exit) or looping, Pac-Man-style boards, draws a "42" pattern inside large mazes, and shows the shortest solution on demand.
+>
+> **My part:** the maze generation core — iterative recursive backtracking with a stack, plus the extra passes that add loops for non-perfect mazes.
+
+> **[Libft](https://github.com/eduardosalgado12/Libft)** · `C`<br>
 > A re-implementation of part of the C standard library, plus linked-list utilities. Every later C project at 42 is built on top of it.
 
-<sub>More on the way: Born2beRoot · A-Maze-ing · Python modules (OOP, Pydantic, functional programming)</sub>
+<sub>More on the way: Born2beRoot · Python modules (OOP, Pydantic, functional programming)</sub>
 
 ---
 
@@ -58,9 +64,18 @@ Python work checked with **flake8** and **mypy** · C code following the 42 **no
 
 - 📚 Progressing through the 42 Common Core
 - 📊 Pointing my learning towards **data** — Python, SQL and data validation
-- 🌍 Open to **internships and junior roles**
+- 🌍 Open to **internships and junior roles**, remote preferred
 
 ---
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=eduardosalgado12&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosalgado12&layout=donut&theme=gruvbox&hide_border=true" />
+
+<sub>🚴 When I'm away from the keyboard, I'm probably on a bike somewhere in the north of Portugal.</sub>
+
+</div>
 
 <div align="center">
 
