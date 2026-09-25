@@ -13,8 +13,7 @@
 
 ### 🔌 From circuits to code
 
-I spent years on the engineering side of things: designing electrical installations, managing sites in Portugal and Angola, and running budgets and teams at a construction company — including delivering an 8-apartment building in 18 months, on budget and on schedule.
-
+I spent years on the engineering side of things: designing electrical installations, managing sites in Portugal and Angola, and running budgets and teams at a construction company,
 In 2026 I decided to switch to software full-time and joined **42 Porto**, where there are no teachers and no lectures — only projects, peer reviews and a lot of debugging.
 
 What I carry over from engineering: **planning before building, respecting constraints, and finishing what I start.**
@@ -67,7 +66,7 @@ Python work checked with **flake8** and **mypy** · C code following the 42 **no
 
 - 📚 Progressing through the 42 Common Core
 - 📊 Pointing my learning towards **data** — Python, SQL and data validation
-- 🌍 Open to **internships and junior roles**, remote preferred
+- 🌍 Open to **internships and junior roles**
 
 ---
 
@@ -78,4 +77,3 @@ Python work checked with **flake8** and **mypy** · C code following the 42 **no
 
 </div>
 
-<p align="center">🚴 When I'm away from the keyboard, I'm probably on a bike somewhere in the north of Portugal.</p>
