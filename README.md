@@ -5,9 +5,7 @@
 **Electrical engineer · Construction manager · Now writing code**
 
 <a href="https://www.linkedin.com/in/eduardo-salgado/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-[![Email](https://img.shields.io/badge/-EduardoSalgado%40outlook.pt-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:EduardoSalgado@outlook.pt)
-<img src="https://img.shields.io/badge/-42%20Porto-000000?style=flat-square&logo=42&logoColor=white" />
-<img src="https://img.shields.io/badge/-Looking%20for%20remote%20roles-2EA44F?style=flat-square" />
+
 
 </div>
 
@@ -78,15 +76,6 @@ Python work checked with **flake8** and **mypy** · C code following the 42 **no
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=eduardosalgado12&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosalgado12&layout=donut&theme=gruvbox&hide_border=true" />
 
-<sub>🚴 When I'm away from the keyboard, I'm probably on a bike somewhere in the north of Portugal.</sub>
-
 </div>
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=eduardosalgado12&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosalgado12&layout=donut&theme=gruvbox&hide_border=true" />
-
-<sub>🚴 When I'm away from the keyboard, I'm probably on a bike somewhere in the north of Portugal.</sub>
-
-
+<p align="center">🚴 When I'm away from the keyboard, I'm probably on a bike somewhere in the north of Portugal.</p>
